@@ -22,7 +22,6 @@
   &__title {
     font-size: 12px;
     font-weight: 500;
-    font-family: sans-serif;
     line-height: 18px;
     color: #060b35;
     margin: 0 0 4px;
@@ -51,7 +50,6 @@
 
   &__stars {
     display: flex;
-    gap: 4px;
   }
 
   &__price-row {
